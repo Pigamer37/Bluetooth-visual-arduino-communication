@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: El directorio intermedio (x64\Debug\) contiene archivos compartidos de otro proyecto (Trabajo_skeleton.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  Proyecto.cpp
+C:\Users\lucas\OneDrive\Escritorio\Bluetooth\Trabajo_skeleton\Proyecto.cpp(43,12): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'char *'
+C:\Users\lucas\OneDrive\Escritorio\Bluetooth\Trabajo_skeleton\Proyecto.cpp(43,12): warning C4313: 'printf': '%d' de la cadena de formato origina conflictos con el argumento 1 del tipo 'char *'
+C:\Users\lucas\OneDrive\Escritorio\Bluetooth\Trabajo_skeleton\Proyecto.cpp(45,58): warning C4267: 'argumento': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+  Trabajo_skeleton.vcxproj -> C:\Users\lucas\OneDrive\Escritorio\Bluetooth\x64\Debug\Space_upm.exe
